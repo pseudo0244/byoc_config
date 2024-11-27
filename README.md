@@ -2,7 +2,7 @@
 
 This project is a 3D configurator that allows users to build and customize their own cars interactively. It is developed using **Three.js** for 3D rendering and **Vite** for fast development and bundling. The configurator enables users to select and modify different car parts, colors, and accessories in real-time, offering an engaging and interactive experience.
 
-![BYOC CONFIG]((https://github.com/pseudo0244/byoc_config/blob/main/main_img.png))
+![BYOC CONFIG](https://github.com/pseudo0244/byoc_config/blob/main/main_img.png)
 
 ## Features
 
